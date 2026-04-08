@@ -1,4 +1,0 @@
-interface:
-  display_name: "Expo iOS Preview Flow"
-  short_description: "Implement Expo iOS changes and return a preview link."
-  default_prompt: "Use $expo-ios-preview-flow to implement this Expo iOS change and give me a preview link."
